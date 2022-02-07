@@ -12,7 +12,7 @@
 - 📫 My Email: nhnam3004@gmail.com
 - 📫 My sound cloud https://soundcloud.com/ho-ngg-nam-34031543 (I just do on spare time)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<nhnam0209>&theme=<dark>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhnam0209&theme=dark" />
 
 
 
