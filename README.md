@@ -5,7 +5,7 @@
 - My Slogan: Work Hard, Play Hard
 
 - 📫 How to reach me
-  + Facebook: https://www.facebook.com/Tony.nhnam/
+  +  [![Twitter][1.2]][1] Facebook: https://www.facebook.com/Tony.nhnam/
   + Instagram (Personal) : https://www.instagram.com/hoangnam_3004/
   + Linkedin: https://www.linkedin.com/in/nhnam3004/
   +
