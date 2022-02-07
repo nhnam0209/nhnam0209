@@ -11,8 +11,7 @@
   + Instagram (Personal) : https://www.instagram.com/hoangnam_3004/
   + Linkedin: https://www.linkedin.com/in/nhnam3004/
   
-- 📫 My Email: nhnam3004@gmail.com
-- 📫 My sound cloud https://soundcloud.com/ho-ngg-nam-34031543 (I just do on spare time)
+- 📫 My soundcloud https://soundcloud.com/ho-ngg-nam-34031543 (I just do on spare time)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 
