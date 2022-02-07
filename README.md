@@ -1,3 +1,7 @@
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/mybanner.gif" alt=”my banner”>
+</p>
+
 - 👋 Hi, I’m Nguyễn Hoàng Nam
 - 👀 I’m interested in computer working such as Full stack developer or Software engineer
 - 🌱 I’m currently a student in Ton Duc Thang University
