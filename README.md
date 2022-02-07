@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt=”my banner”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/mybanner.gif" alt=”my banner”>
 </p>
 - 👋 Hi, I’m Nguyễn Hoàng Nam
 - 👀 I’m interested in computer working such as Full stack developer or Software engineer
