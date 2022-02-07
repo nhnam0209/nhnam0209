@@ -2,12 +2,17 @@
 - 👀 I’m interested in computer working such as Full stack developer or Software engineer
 - 🌱 I’m currently a student in Ton Duc Thang University
 - ⚡ Fun fact: I can do everything if I want =)))
-- My dream: for money in working_hard: \n\t return my life
+- My Slogan: Work Hard, Play Hard
 
-- 📫 How to reach me https://www.facebook.com/Tony.nhnam/
-- 📫 My Email nhnam3004@gmail.com
+- 📫 How to reach me
+  + Facebook: https://www.facebook.com/Tony.nhnam/
+  + Instagram (Personal) : https://www.instagram.com/hoangnam_3004/
+  + Linkedin: https://www.linkedin.com/in/nhnam3004/
+  +
+- 📫 My Email: nhnam3004@gmail.com
 - 📫 My sound cloud https://soundcloud.com/ho-ngg-nam-34031543 (I just do on spare time)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 
