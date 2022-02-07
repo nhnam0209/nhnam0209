@@ -12,6 +12,8 @@
 - 📫 My Email: nhnam3004@gmail.com
 - 📫 My sound cloud https://soundcloud.com/ho-ngg-nam-34031543 (I just do on spare time)
 
+
+[![Nhnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhnam0209)](https://github.com/nhnam0209/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhnam0209&theme=dark" />
 
 
