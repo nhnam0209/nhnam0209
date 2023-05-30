@@ -1,7 +1,8 @@
 
 - 👋 Hi, I’m Nguyễn Hoàng Nam
 - 👀 I’m interested in computer working such as Full stack developer or Software engineer
-- 🌱 I’m currently a student in Ton Duc Thang University
+- 🌱 I’m currently working in CMC Global
+- 🌱 I used to be a student in Ton Duc Thang University
 - ⚡ Fun fact: I can do everything if I want =)))
 - My Slogan: Work Hard, Play Hard
 
