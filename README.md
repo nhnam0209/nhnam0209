@@ -10,7 +10,7 @@
 - 🤝 Connect with me
   + Email: nhnam3004@gmail.com
   + Facebook: https://www.facebook.com/Tony.nhnam/
-  + Instagram (Personal) : https://www.instagram.com/hoangnam_3004/
+  + Instagram (Personal): https://www.instagram.com/hoangnam_3004/
   + Linkedin: https://www.linkedin.com/in/nhnam3004/
   + My website: https://new-portfolio-gold.vercel.app/
   
