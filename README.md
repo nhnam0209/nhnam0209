@@ -15,12 +15,3 @@
   + My website: https://new-portfolio-gold.vercel.app/
   
 - 📫 My soundcloud https://soundcloud.com/ho-ngg-nam-34031543 (I just do on spare time)
-
-[1.2]: http://i.imgur.com/wWzX9uB.png
-
-[![Nhnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhnam0209&theme=dark)](https://github.com/nhnam0209/github-readme-stats)
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhnam0209&theme=dark" />
-
-
-
