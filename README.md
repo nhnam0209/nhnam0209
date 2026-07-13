@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Nguyễn Hoàng Nam
-- 👀 I’m interested in computer work such as Full stack developer or Software engineer
-- 🌱 I’m currently working in VTC Telecom
-- 🌱 I had worked for FPT Software and CMC Global
+- 👀 I’m interested in computer work such as Full stack Developer
+- 🌱 I’m currently working in 8OnyX
+- 🌱 I had worked for FPT Software, CMC Global and VTC Telecom
 - 🌱 I used to be a student at Ton Duc Thang University
 - ⚡ Fun fact: I can do everything if I want =)))
 - My Slogan: Work Hard, Play Hard
