@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Nguyễn Hoàng Nam
 - 👀 I’m interested in computer work such as Full stack Developer
-- 🌱 I’m currently working in 8OnyX
+- 🌱 I’m currently working in 8OnyX Việt Nam
 - 🌱 I had worked for FPT Software, CMC Global and VTC Telecom
 - 🌱 I used to be a student at Ton Duc Thang University
 - ⚡ Fun fact: I can do everything if I want =)))
